@@ -1,4 +1,4 @@
-module bubbles
+module github.com/chentiangang/bubbles
 
 go 1.23.1
 
